@@ -1,0 +1,11 @@
+Create directory Structure
+Create npm project and install all dependencies
+
+Create a server
+Create a LoginPage
+Create home page
+Section for books page
+Create cart page   
+    -empty cart Section
+    -order summary
+Corresponding databases

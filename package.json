@@ -1,0 +1,17 @@
+{
+  "name": "onemorechapter",
+  "version": "1.0.0",
+  "description": "OneMoreChapter helps a user to display his/her collection of books in the public domain.This would help in transaction of knowledge and will help build a community where one can buy/rent books from people in the same geographical location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Julian Toppo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  }
+}
